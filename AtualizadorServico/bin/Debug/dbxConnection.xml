@@ -1,0 +1,7 @@
+<AtualizadorServico>
+  <ServidorAD>LN005ADS01</ServidorAD>
+  <ServidorSQL>LN005SQL02</ServidorSQL>
+  <BancoSQL>SQL_PRD</BancoSQL>
+  <UsuarioSQL>userSQL</UsuarioSQL>
+  <SenhaSQL>pwdSQL</SenhaSQL>
+</AtualizadorServico>

@@ -1,0 +1,34 @@
+C:\Projetos\FRM - AtualizadorServico\AtualizadorServico\AtualizadorServico\obj\Debug\AtualizadorServico.exe
+C:\Projetos\FRM - AtualizadorServico\AtualizadorServico\AtualizadorServico\obj\Debug\AtualizadorServico.pdb
+C:\Projetos\FRM - AtualizadorServico\AtualizadorServico\AtualizadorServico\bin\Debug\AtualizadorServico.exe
+C:\Projetos\FRM - AtualizadorServico\AtualizadorServico\AtualizadorServico\bin\Debug\AtualizadorServico.pdb
+C:\Projetos\FRM - AtualizadorServico\AtualizadorServico\AtualizadorServico\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Projetos\FRM - AtualizadorServico\AtualizadorServico\AtualizadorServico\obj\Debug\AtualizadorServico.Controles.CtrlInstalacao.resources
+C:\Projetos\FRM - AtualizadorServico\AtualizadorServico\AtualizadorServico\obj\Debug\AtualizadorServico.Controles.CtrlPainelControle.resources
+C:\Projetos\FRM - AtualizadorServico\AtualizadorServico\AtualizadorServico\obj\Debug\AtualizadorServico.Forms.FrmEditorRegistro.resources
+C:\Projetos\FRM - AtualizadorServico\AtualizadorServico\AtualizadorServico\obj\Debug\AtualizadorServico.Forms.FrmEditorRegistroChave.resources
+C:\Projetos\FRM - AtualizadorServico\AtualizadorServico\AtualizadorServico\obj\Debug\AtualizadorServico.Forms.FrmEditorRegistroValor.resources
+C:\Projetos\FRM - AtualizadorServico\AtualizadorServico\AtualizadorServico\obj\Debug\AtualizadorServico.Forms.FrmLogin.resources
+C:\Projetos\FRM - AtualizadorServico\AtualizadorServico\AtualizadorServico\obj\Debug\AtualizadorServico.Forms.FrmPrincipal.resources
+C:\Projetos\FRM - AtualizadorServico\AtualizadorServico\AtualizadorServico\obj\Debug\AtualizadorServico.Properties.Resources.resources
+C:\Projetos\FRM - AtualizadorServico\AtualizadorServico\AtualizadorServico\obj\Debug\AtualizadorServico.csproj.GenerateResource.Cache
+C:\Projetos\FRM - AtualizadorServico\AtualizadorServico\AtualizadorServico\obj\Debug\AtualizadorServico.csprojResolveAssemblyReference.cache
+C:\Projetos\FRM - AtualizadorServico\AtualizadorServico v1.0.0.0\AtualizadorServico\obj\Debug\AtualizadorServico.exe
+C:\Projetos\FRM - AtualizadorServico\AtualizadorServico v1.0.0.0\AtualizadorServico\obj\Debug\AtualizadorServico.pdb
+C:\Users\fepis\Desktop\Works\FRM - AtualizadorServico\AtualizadorServico v1.0.0.0\AtualizadorServico\bin\Debug\AtualizadorServico.exe
+C:\Users\fepis\Desktop\Works\FRM - AtualizadorServico\AtualizadorServico v1.0.0.0\AtualizadorServico\bin\Debug\AtualizadorServico.pdb
+C:\Users\fepis\Desktop\Works\FRM - AtualizadorServico\AtualizadorServico v1.0.0.0\AtualizadorServico\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\fepis\Desktop\Works\FRM - AtualizadorServico\AtualizadorServico v1.0.0.0\AtualizadorServico\obj\Debug\AtualizadorServico.csprojAssemblyReference.cache
+C:\Users\fepis\Desktop\Works\FRM - AtualizadorServico\AtualizadorServico v1.0.0.0\AtualizadorServico\obj\Debug\AtualizadorServico.Controles.CtrlInstalacao.resources
+C:\Users\fepis\Desktop\Works\FRM - AtualizadorServico\AtualizadorServico v1.0.0.0\AtualizadorServico\obj\Debug\AtualizadorServico.Controles.CtrlPainelControle.resources
+C:\Users\fepis\Desktop\Works\FRM - AtualizadorServico\AtualizadorServico v1.0.0.0\AtualizadorServico\obj\Debug\AtualizadorServico.Forms.FrmEditorRegistro.resources
+C:\Users\fepis\Desktop\Works\FRM - AtualizadorServico\AtualizadorServico v1.0.0.0\AtualizadorServico\obj\Debug\AtualizadorServico.Forms.FrmEditorRegistroChave.resources
+C:\Users\fepis\Desktop\Works\FRM - AtualizadorServico\AtualizadorServico v1.0.0.0\AtualizadorServico\obj\Debug\AtualizadorServico.Forms.FrmEditorRegistroValor.resources
+C:\Users\fepis\Desktop\Works\FRM - AtualizadorServico\AtualizadorServico v1.0.0.0\AtualizadorServico\obj\Debug\AtualizadorServico.Forms.FrmLogin.resources
+C:\Users\fepis\Desktop\Works\FRM - AtualizadorServico\AtualizadorServico v1.0.0.0\AtualizadorServico\obj\Debug\AtualizadorServico.Forms.FrmPrincipal.resources
+C:\Users\fepis\Desktop\Works\FRM - AtualizadorServico\AtualizadorServico v1.0.0.0\AtualizadorServico\obj\Debug\AtualizadorServico.Properties.Resources.resources
+C:\Users\fepis\Desktop\Works\FRM - AtualizadorServico\AtualizadorServico v1.0.0.0\AtualizadorServico\obj\Debug\AtualizadorServico.csproj.GenerateResource.cache
+C:\Users\fepis\Desktop\Works\FRM - AtualizadorServico\AtualizadorServico v1.0.0.0\AtualizadorServico\obj\Debug\AtualizadorServico.csproj.CoreCompileInputs.cache
+C:\Users\fepis\Desktop\Works\FRM - AtualizadorServico\AtualizadorServico v1.0.0.0\AtualizadorServico\obj\Debug\AtualizadorServico.csproj.CopyComplete
+C:\Users\fepis\Desktop\Works\FRM - AtualizadorServico\AtualizadorServico v1.0.0.0\AtualizadorServico\obj\Debug\AtualizadorServico.exe
+C:\Users\fepis\Desktop\Works\FRM - AtualizadorServico\AtualizadorServico v1.0.0.0\AtualizadorServico\obj\Debug\AtualizadorServico.pdb

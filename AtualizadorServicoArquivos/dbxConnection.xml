@@ -1,0 +1,7 @@
+<AtualizadorServico>
+  <ServidorAD>LN005ADS01</ServidorAD>
+  <ServidorSQL>LN010SQL01</ServidorSQL>
+  <BancoSQL>PANCO_PRD</BancoSQL>
+  <UsuarioSQL>delphi</UsuarioSQL>
+  <SenhaSQL>cvTBsmNeCBk=</SenhaSQL>
+</AtualizadorServico>
