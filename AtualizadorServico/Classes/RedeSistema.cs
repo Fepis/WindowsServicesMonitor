@@ -43,7 +43,7 @@ namespace AtualizadorServico.Classes
             List<String> computersList = new List<String>();
             try
             {
-                DirectoryEntry entry = new DirectoryEntry("LDAP://panco");
+                DirectoryEntry entry = new DirectoryEntry("LDAP://company");
                 DirectorySearcher mySearcher = new DirectorySearcher(entry);
                 mySearcher.Filter = ("(objectClass=computer)");
 
@@ -120,7 +120,7 @@ namespace AtualizadorServico.Classes
                         }
                     }
                 },
-               Credenciais.Usuario, "PANCO", Credenciais.Senha);
+               Credenciais.Usuario, "COMPANY", Credenciais.Senha);
 
                 mensagem = mensagemRecebida;
             }
@@ -194,7 +194,7 @@ namespace AtualizadorServico.Classes
                     arquivoExecutavel = Path.Combine(raiz, arquivoExecutavel);
 
                     //Conecta-se a maquina remota
-                    using (new NetworkConnectionDirectory(raiz, @"PANCO\" + Credenciais.Usuario, Credenciais.Senha))
+                    using (new NetworkConnectionDirectory(raiz, @"COMPANY\" + Credenciais.Usuario, Credenciais.Senha))
                     {
                         if (File.Exists(arquivoExecutavel))
                         {
@@ -242,7 +242,7 @@ namespace AtualizadorServico.Classes
                     else
                     { mensagemRecebida = sc.DisplayName; }
                 },
-              Credenciais.Usuario, "PANCO", Credenciais.Senha);
+              Credenciais.Usuario, "COMPANY", Credenciais.Senha);
 
                 mensagem = mensagemRecebida;
             }
@@ -297,7 +297,7 @@ namespace AtualizadorServico.Classes
 
                     }
                 },
-               Credenciais.Usuario, "PANCO", Credenciais.Senha);
+               Credenciais.Usuario, "COMPANY", Credenciais.Senha);
             }
             catch (Exception ex)
             {
@@ -336,7 +336,7 @@ namespace AtualizadorServico.Classes
                 string diretorioDestinoBackup = Path.Combine(diretorioDestino, string.Format("BackupAplic_{0}", DateTime.Today.ToString("yyyyMMdd")));
 
                 //Conecta-se a maquina remota
-                using (new NetworkConnectionDirectory(raiz, @"PANCO\" + Credenciais.Usuario, Credenciais.Senha))
+                using (new NetworkConnectionDirectory(raiz, @"COMPANY\" + Credenciais.Usuario, Credenciais.Senha))
                 {
                     //Caso não haja o diretorio então cria 
                     if (!Directory.Exists(diretorioDestino))
